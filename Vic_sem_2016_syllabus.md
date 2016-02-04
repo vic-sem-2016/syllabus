@@ -94,7 +94,7 @@ Digital Fellow in Data Visualization
 + in class workshop: 4-4:30 pm, introduction to concepts of plain-text
 authoring with Nabil Kashyap
 
-#### February 1: optional but recommended plain-text authoring open lab,
+#### February 1: optional but recommended plain-text authoring open lab, including Command Line Boot Camp,
 McCabe Computer Classroom, 1-4 pm
 
 #### February 3: canonical realisms 1
