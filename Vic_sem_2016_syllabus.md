@@ -211,8 +211,8 @@ Computer Classroom, 1-4 pm
 + before class: post to Known about indexing *Our Mutual Friend*
 + data viz discussion with PJ: follow up
 
-discussion and outline: Adriana, RJ; close reading: Anna, Corey, Luke; criticism summary: Gaby, Nithya; seminar
-paper: ; break: Lanie, Anna
+discussion and outline: Adriana, RJ; close reading: Anna, Corey, Luke; criticism summary: Gaby, ; seminar
+paper: Nithya ; break: Lanie, Anna
 
 #### March 7: spring break (read *Hard Cash*)
 
@@ -238,7 +238,7 @@ Know*
 Temptation*
 + in-class workshop preparation: open notebooks
 
-discussion and outline: Luke, ? ; close reading: Nithya, RJ ; criticism summary: Lanie (Poovey), Corey, Adriana; seminar
+discussion and outline: Luke, Nithya ; close reading: Nithya, RJ ; criticism summary: Lanie (Poovey), Corey, Adriana; seminar
 paper: Anna, Yumi, Luke; break: Luke
 
 #### March 21: optional but recommended open lab, McCabe Computer
@@ -359,7 +359,7 @@ at the British Museum”
 + Susan David Bernstein, “Researching Romola” from *Roomscapes* *
 + mind maps, concept maps, etc
 
-discussion and outline: ; close reading: Nithya; criticism summary: ; seminar
+discussion and outline: Nithya, ; close reading: ; criticism summary: Nithya (Roomscapes) ; seminar
 paper: ; break: Corey
 
 ***
