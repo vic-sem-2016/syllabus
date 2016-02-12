@@ -121,7 +121,7 @@ authoring
 + in class workshop: data viz discussion with PJ: visualizing the
 Barsetshire Series 3:45 PJ
 
-discussion and outline: Yumi, Anna; close reading: Luke, RJ; criticism summary: Anna(Barthes), Lanie(Jameson), Adriana(Levine); seminar
+discussion and outline: Yumi, Anna; close reading: Luke, RJ; criticism summary: Anna(Barthes), (Jameson), Adriana(Levine); seminar
 paper: ; break: Nithya, Gaby
 
 #### February 8: optional but recommended version control open lab, LPAC
@@ -132,18 +132,18 @@ some topics: serials and series (what happens when we try to imagine all
 six Barsetshire novels as part of a single world?); roman fleuve;
 religion and the clergy; marriage; travel
 
-+ Trollope, *An Autobiography*
++ Trollope, *An Autobiography*, chapters 1, 2, 3, 5, 6, 8, 10, 12, 13, 14, 15, and 20
 + E. S. Dallas review of *Barchester Towers*
 + Michel Foucault, from *Discipline and Punish* (background to Miller)
 + D.A. Miller, Barchester Towers chapter from *The Novel and the Police*
 + Ramsay, from *Reading Machines*
-+ workshop: not reading The Chronicles of Barsetshire (inspired by Paul
-Fyfe’s  How To Not Read a Victorian Novel)
++  Read chapter 1.1-1.7 in this intro to git textbook: http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+It includes instructions about installing git, but I suggest you wait to do this until the Open Lab.
 + complete before class: brief post to our Known about version control
 + -in class workshop: source management, and bibliometrics with Zotero
 and Paper Machines
 
-discussion and outline: Lanie, Nithya; close reading: Gaby, Corey, Adrianna; criticism summary: Anna (Ramsay); seminar
+discussion and outline: Lanie, Nithya; close reading: Gaby, Corey, Adrianna; criticism summary: Anna (Ramsay), Lanie (Miller); seminar
 paper: Yumi, RJ; break: Yumi
 
 #### February 15: optional but recommended Zotero and Paper Machines
@@ -196,7 +196,7 @@ discussion and outline: ; close reading: ; criticism summary: ; seminar
 paper: ; break:
 + complete before class: brief post to our Known about note-taking
 
-discussion and outline: Corey; close reading: Anna, Lanie; criticism summary: ; seminar
+discussion and outline: Corey, Yumi; close reading: Anna, Lanie; criticism summary: Yumi; seminar
 paper: Luke, Adriana; break: Yumi, RJ
 
 #### February 28: optional but recommended open lab, NVol, McCabe
@@ -211,7 +211,7 @@ Computer Classroom, 1-4 pm
 + before class: post to Known about indexing *Our Mutual Friend*
 + data viz discussion with PJ: follow up
 
-discussion and outline: Adriana, RJ; close reading: Anna, Corey, Luke; criticism summary: Gaby, Nithya; seminar
+discussion and outline: Adriana, RJ; close reading: Anna, Corey, Lanie; criticism summary: Gaby, Nithya; seminar
 paper: ; break: Lanie, Anna
 
 #### March 7: spring break (read *Hard Cash*)
@@ -238,7 +238,7 @@ Know*
 Temptation*
 + in-class workshop preparation: open notebooks
 
-discussion and outline: Luke, ? ; close reading: Nithya, RJ ; criticism summary: Lanie (Poovey), Corey, Adriana; seminar
+discussion and outline: RJ, Lanie; close reading: Nithya, RJ ; criticism summary: Lanie (Poovey), Corey, Adriana; seminar
 paper: Anna, Yumi, Luke; break: Luke
 
 #### March 21: optional but recommended open lab, McCabe Computer
@@ -293,7 +293,7 @@ Victorians”)[http://www.victorianresearch.org/googling.pdf]
 + post- workshop discussion: telegraphy and critical making
 + in-class workshop with PJ: follow-up on visualizing a corpus
 
-discussion and outline: Luke, RJ; close reading: Anna ; criticism summary: Luke, Gaby; seminar
+discussion and outline: Luke, RJ; close reading: Anna, Yumi ; criticism summary: RJ, Gaby; seminar
 paper: Nithya, Lanie; break: Gaby
 
 #### April 4: optional but recommended paper-drafting open lab, LPAC
@@ -341,7 +341,7 @@ Novel-Reading as
 Critical Practice”*
 + selections from GE notebooks
 
-discussion and outline: Corey, Adriana ; close reading: Lanie; criticism summary: Yumi (Price), Luke; seminar
+discussion and outline: Corey, Adriana ; close reading: Lanie, RJ; criticism summary: Yumi (Price), Luke; seminar
 paper: Nithya; break: Luke, RJ
 
 #### April 25: optional but recommended paper-drafting open lab, LPAC
