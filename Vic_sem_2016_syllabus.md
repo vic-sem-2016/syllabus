@@ -176,7 +176,7 @@ aggregating, sharing
 + in-class workshop: data viz discussion with PJ: visualizing OMF (notes
 and numbers?)
 
-discussion and outline: Gaby, Yumi; close reading: Nithya, Luke; criticism summary: Anna (Elson, Dames), RJ(Bakhtin) ; seminar
+discussion and outline: Gaby, Yumi; close reading: Nithya, Luke; criticism summary: RJ(Bakhtin) ; seminar
 paper: Lanie, Corey; break: Adriana, Anna
 
 #### February 22: optional but recommended open lab, McCabe Computer
@@ -196,7 +196,7 @@ discussion and outline: ; close reading: ; criticism summary: ; seminar
 paper: ; break:
 + complete before class: brief post to our Known about note-taking
 
-discussion and outline: Corey, Yumi; close reading: Anna, Lanie; criticism summary: Yumi; seminar
+discussion and outline: Corey, Yumi; close reading: Anna, Lanie; criticism summary: Yumi, Anna (Elson, Dames) ; seminar
 paper: Luke, Adriana; break: Yumi, RJ
 
 #### February 28: optional but recommended open lab, NVol, McCabe
@@ -359,7 +359,7 @@ at the British Museum”
 + Susan David Bernstein, “Researching Romola” from *Roomscapes* *
 + mind maps, concept maps, etc
 
-discussion and outline: ; close reading: Nithya; criticism summary: ; seminar
+discussion and outline: Anna ; close reading: Nithya; criticism summary: ; seminar
 paper: ; break: Corey
 
 ***
