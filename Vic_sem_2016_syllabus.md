@@ -165,7 +165,7 @@ Novels*
 + complete before class: install Zotero and Paper Machines
 
 
-discussion and outline: Gaby, Yumi; close reading: Nithya, Luke; criticism summary: Anna (Elson, Dames), RJ(Bakhtin) ; seminar
+discussion and outline: Gaby, Yumi; close reading: Nithya, Luke; criticism summary: RJ(Bakhtin) ; seminar
 paper: Lanie, Corey; break: Adriana, Anna
 
 #### February 22: optional but recommended open lab, McCabe Computer
@@ -191,7 +191,7 @@ management
 + in-class workshop: data viz discussion with PJ
 + complete before class: brief post to our Known about citation management
 
-discussion and outline: Corey, Yumi; close reading: Anna, Lanie; criticism summary: Yumi; seminar
+discussion and outline: Corey, Yumi; close reading: Anna, Lanie; criticism summary: Yumi, Anna (Elson, Dames) ; seminar
 paper: Luke, Adriana; break: Yumi, RJ
 
 #### February 28: optional but recommended open lab, NVol, McCabe
@@ -354,7 +354,11 @@ at the British Museum”
 + Susan David Bernstein, “Researching Romola” from *Roomscapes* *
 + mind maps, concept maps, etc
 
+<<<<<<< HEAD
 discussion and outline: Adriana; close reading: Nithya; criticism summary: ; seminar
+=======
+discussion and outline: Anna ; close reading: Nithya; criticism summary: ; seminar
+>>>>>>> b82944b562071f17acae4e0846fc03b6bce20187
 paper: ; break: Corey
 
 ***
