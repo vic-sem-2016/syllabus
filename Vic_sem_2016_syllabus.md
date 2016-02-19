@@ -173,9 +173,6 @@ Classroom, 1-4 pm
 
 #### February 24: reference
 + Charles Dickens, Charles Dickens, *Our Mutual Friend*, second third
-+ Skype visit from Anna Gibson, director of the [Dickens Notes
-Project]([Dickens Working Notes Project](http://dickensnotes.com/) and
-the [Versioning Machine](http://v-machine.org/samples.php)
 + OMF critical reading 1
 + Simon Reader, [“Victorian Notebooks: Source and
 Method”](https://www.academia.edu/5011463/
@@ -204,6 +201,9 @@ Computer Classroom, 1-4 pm
 + Algee-Hewitt and Piper, "The Werther Effect"
 + explore Dickens's corpus with [CLiC](http://clic.bham.ac.uk/)
 + before class: post to Known about indexing *Our Mutual Friend*
++ 3 pm Skype visit from Anna Gibson, director of the [Dickens Notes
+Project]([Dickens Working Notes Project](http://dickensnotes.com/)
++ look also at [Versioning Machine](http://v-machine.org/samples.php)
 + data viz discussion with PJ: follow up
 
 discussion and outline: Adriana, RJ; close reading: Anna, Corey, Lanie; criticism summary: Gaby, Nithya; seminar
