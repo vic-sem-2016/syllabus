@@ -162,19 +162,8 @@ magazine All the Year Round volumes
 + selections from  John Butt and Kathleen Tillottson, *Dickens at Work*
 + selections from Harry Stone ed., *Dickens’s Working Notes for His
 Novels*
-+ Simon Reader, [“Victorian Notebooks: Source and
-Method”](https://www.academia.edu/5011463/
-Victorian_Notebooks_Source_and_Method)
-+ Elson, Dames, McKeown, [Extracting Social Networks from Literary
-Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-
-ElsonDamesMcKeown.pdf)
 + complete before class: install Zotero and Paper Machines
-+ complete before class: brief post to our Known about citation
-management
-+ in-class workshop: note-taking systems (Evernote, NVol, etc); tagging,
-aggregating, sharing
-+ in-class workshop: data viz discussion with PJ: visualizing OMF (notes
-and numbers?)
+
 
 discussion and outline: Gaby, Yumi; close reading: Nithya, Luke; criticism summary: Anna (Elson, Dames), RJ(Bakhtin) ; seminar
 paper: Lanie, Corey; break: Adriana, Anna
@@ -188,13 +177,19 @@ Classroom, 1-4 pm
 Project]([Dickens Working Notes Project](http://dickensnotes.com/) and
 the [Versioning Machine](http://v-machine.org/samples.php)
 + OMF critical reading 1
-+ OMF critical reading 2
++ Simon Reader, [“Victorian Notebooks: Source and
+Method”](https://www.academia.edu/5011463/
+Victorian_Notebooks_Source_and_Method)
++ Elson, Dames, McKeown, [Extracting Social Networks from Literary
+Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-
+ElsonDamesMcKeown.pdf)
 + text analysis reading from A New Companion to Digital Humanities
 + workshop: Novel into Notes - indexing *Our Mutual Friend*
 + in-class workshop: breaking down an article using NVol
-discussion and outline: ; close reading: ; criticism summary: ; seminar
-paper: ; break:
-+ complete before class: brief post to our Known about note-taking
++ complete before class: brief post to our Known about citation
+management
++ in-class workshop: data viz discussion with PJ
++ complete before class: brief post to our Known about citation management
 
 discussion and outline: Corey, Yumi; close reading: Anna, Lanie; criticism summary: Yumi; seminar
 paper: Luke, Adriana; break: Yumi, RJ
@@ -238,8 +233,8 @@ Know*
 Temptation*
 + in-class workshop preparation: open notebooks
 
-discussion and outline: RJ, Lanie; close reading: Nithya, RJ ; criticism summary: Lanie (Poovey), Corey, Adriana; seminar
-paper: Anna, Yumi, Luke; break: Luke
+discussion and outline: RJ, Lanie; close reading: Nithya, RJ, Adriana; criticism summary: Lanie (Poovey), Corey, Adriana; seminar
+paper: Anna, Yumi, Luke, Gaby; break: Luke
 
 #### March 21: optional but recommended open lab, McCabe Computer
 Classroom, 1-4 pm
@@ -293,7 +288,7 @@ Victorians”)[http://www.victorianresearch.org/googling.pdf]
 + post- workshop discussion: telegraphy and critical making
 + in-class workshop with PJ: follow-up on visualizing a corpus
 
-discussion and outline: Luke, RJ; close reading: Anna, Yumi ; criticism summary: RJ, Gaby; seminar
+discussion and outline: Luke, RJ; close reading: Anna, Yumi ; criticism summary: RJ, Gaby, Adriana, Yumi; seminar
 paper: Nithya, Lanie; break: Gaby
 
 #### April 4: optional but recommended paper-drafting open lab, LPAC
@@ -326,7 +321,7 @@ ed. Elaine Freedgood and Cannon Schmitt, *Representations* 125 (Winter
 2014)
 
 discussion and outline: Lanie, Luke; close reading: Adriana, Yumi ; criticism summary: RJ, Nithya (*Representations* intro); seminar
-paper: Gaby, Anna ; break: Nithya
+paper: Anna ; break: Nithya, Adriana
 
 #### April 18: optional but recommended paper-drafting open lab, LPAC
 201, 1-4 pm
@@ -359,7 +354,7 @@ at the British Museum”
 + Susan David Bernstein, “Researching Romola” from *Roomscapes* *
 + mind maps, concept maps, etc
 
-discussion and outline: ; close reading: Nithya; criticism summary: ; seminar
+discussion and outline: Adriana; close reading: Nithya; criticism summary: ; seminar
 paper: ; break: Corey
 
 ***
