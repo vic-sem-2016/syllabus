@@ -231,6 +231,7 @@ Know*
 + description of fictional novelist-researcher Rolfe from *A Terrible
 Temptation*
 + in-class workshop preparation: open notebooks
++ final paper plan due to Dropbox
 
 discussion and outline: RJ, Lanie; close reading: Nithya, RJ, Adriana; criticism summary: Lanie (Poovey), Corey, Adriana; seminar
 paper: Anna, Yumi, Luke, Gaby; break: Luke
@@ -255,7 +256,6 @@ and manuscript pages, but give yourself time.
 novels?
 + background: recovery projects and Guillory; Sutherland and
 encylopedias; library catalogs; Moretti, etc on Victorian Bestsellers
-+ final paper plan due to dropbox
 + in class workshop: data viz discussion with PJ: visualizing a corpus
 (novels or criticism)
 
@@ -364,7 +364,7 @@ paper: ; break: Corey
 
 *seminar dinner to be scheduled*
 
-*April 28th SHS papers due*
+*April 28th papers due*
 
 ####final meeting and seminar dinner
 

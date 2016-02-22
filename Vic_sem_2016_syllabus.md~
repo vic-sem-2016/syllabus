@@ -164,7 +164,6 @@ magazine All the Year Round volumes
 Novels*
 + complete before class: install Zotero and Paper Machines
 
-
 discussion and outline: Gaby, Yumi; close reading: Nithya, Luke; criticism summary: RJ(Bakhtin) ; seminar
 paper: Lanie, Corey; break: Adriana, Anna
 
@@ -180,11 +179,10 @@ Victorian_Notebooks_Source_and_Method)
 + Elson, Dames, McKeown, [Extracting Social Networks from Literary
 Fiction](http://www1.cs.columbia.edu/~delson/pubs/ACL2010-
 ElsonDamesMcKeown.pdf)
-+ text analysis reading from A New Companion to Digital Humanities
-+ workshop: Novel into Notes - indexing *Our Mutual Friend*
-+ in-class workshop: breaking down an article using NVol
++ assignment for next week: Novel into Notes - indexing *Our Mutual Friend*
 + complete before class: brief post to our Known about citation
 management
++ in-class workshop: breaking down an article using NVol
 + in-class workshop: data viz discussion with PJ
 + complete before class: brief post to our Known about citation management
 
@@ -200,6 +198,7 @@ Computer Classroom, 1-4 pm
 + OMF critical reading 2
 + Algee-Hewitt and Piper, "The Werther Effect"
 + explore Dickens's corpus with [CLiC](http://clic.bham.ac.uk/)
++ text analysis reading from A New Companion to Digital Humanities
 + before class: post to Known about indexing *Our Mutual Friend*
 + 3 pm Skype visit from Anna Gibson, director of the [Dickens Notes
 Project]([Dickens Working Notes Project](http://dickensnotes.com/)
