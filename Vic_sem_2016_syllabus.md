@@ -287,16 +287,16 @@ Victorians”)[http://www.victorianresearch.org/googling.pdf]
 + post- workshop discussion: telegraphy and critical making
 + in-class workshop with PJ: follow-up on visualizing a corpus
 
-discussion and outline: Luke, RJ; close reading: Anna, Yumi ; criticism summary: RJ, Gaby, Adriana, Yumi; seminar
+discussion and outline: Luke, RJ, Nithya; close reading: Anna, Yumi ; criticism summary: RJ, Gaby, Adriana, Yumi; seminar
 paper: Nithya, Lanie; break: Gaby
 
 #### April 4: optional but recommended paper-drafting open lab, LPAC
 201, 1-4 pm
 
-#### April 6: noticing everyday life
-some topics:
+#### April 6: SHS paper workshop
 
-+ final paper draft due for workshop
++ final paper draft due for workshop by midnight *Monday, April 4th*
++ print, read, and annotate all of  your classmates' paper drafts
 + George Eliot, *The Mill on the Floss*, first half
 + in-class workshop with PJ: follow-up on visualizing a corpus; thinking
 about related final projects
@@ -306,7 +306,7 @@ break: Corey
 #### April 11: optional but recommended paper-drafting open lab, LPAC
 201, 1-4 pm
 
-#### April 13: noticing everyday life 2
+#### April 13: noticing everyday life
 some topics:
 
 + George Eliot, *The Mill on the Floss*, second half
@@ -353,12 +353,7 @@ at the British Museum”
 + Susan David Bernstein, “Researching Romola” from *Roomscapes* *
 + mind maps, concept maps, etc
 
-<<<<<<< HEAD
-discussion and outline: Adriana; close reading: Nithya; criticism summary: ; seminar
-=======
-discussion and outline: Anna ; close reading: Nithya; criticism summary: ; seminar
->>>>>>> b82944b562071f17acae4e0846fc03b6bce20187
-paper: ; break: Corey
+discussion and outline: Anna ; close reading: Nithya; criticism summary: ; seminar paper: ; break: Corey
 
 ***
 
