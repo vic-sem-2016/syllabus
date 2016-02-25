@@ -199,14 +199,14 @@ Computer Classroom, 1-4 pm
 + Algee-Hewitt and Piper, "The Werther Effect"
 + explore Dickens's corpus with [CLiC](http://clic.bham.ac.uk/)
 + text analysis reading from A New Companion to Digital Humanities
-+ before class: post to Known about indexing *Our Mutual Friend*
++ post to Known: Novel into Notes - indexing *Our Mutual Friend* by Tuesday midnight
 + 3 pm Skype visit from Anna Gibson, director of the [Dickens Notes
 Project]([Dickens Working Notes Project](http://dickensnotes.com/)
 + look also at [Versioning Machine](http://v-machine.org/samples.php)
 + data viz discussion with PJ: follow up
 
 discussion and outline: Adriana, RJ; close reading: Anna, Corey, Lanie; criticism summary: Gaby, Nithya; seminar
-paper: ; break: Lanie, Anna
+paper: Yumi; break: Lanie, Anna
 
 #### March 7: spring break (read *Hard Cash*)
 
@@ -234,7 +234,7 @@ Temptation*
 + final paper plan due to Dropbox
 
 discussion and outline: RJ, Lanie; close reading: Nithya, RJ, Adriana; criticism summary: Lanie (Poovey), Corey, Adriana; seminar
-paper: Anna, Yumi, Luke, Gaby; break: Luke
+paper: Anna,  Luke, Gaby; break: Luke
 
 #### March 21: optional but recommended open lab, McCabe Computer
 Classroom, 1-4 pm
