@@ -219,7 +219,7 @@ prison, asylum, investigative journalism; index, database vs [personal
 knowledge base](http://en.wikipedia.org/wiki/Personal_knowledge_base);
 Charles Reade’s open research notebook; returning to canon questions
 
-+ Charles Reade, *Hard Cash*, first half
++ Charles Reade, *Hard Cash*
 + Ann Blair, “Note-taking as Information Management” from *Too Much to
 Know*
 + Mary Poovey, “Forgotten Writers, Neglected Histories”
